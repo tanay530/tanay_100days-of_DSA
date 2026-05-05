@@ -1,1 +1,1 @@
-# varun_100days-of_DSA
+# tanay_100days-of_DSA
